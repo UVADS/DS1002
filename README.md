@@ -33,7 +33,7 @@ TA: Jiebei Liu (Isabelle)
 ](https://virginia.zoom.us/j/92565023100?pwd=YVB0ekNKL3VjbGhUZGN5cVpmMUtzZz09)Meeting ID: 925 6502 3100 Passcode: 873108
 (Quick navigation: Enter Thornton Hall from the entrance with Charles L. Brown Department of Electrical & Computer Engineering sign, enter the first door on the right and go upstairs)
 
-**Course Materials: ****  **
+**Course Materials:**
 
 - Canvas
 - [https://canvas.its.virginia.edu/](https://canvas.its.virginia.edu/)
