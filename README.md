@@ -1,4 +1,4 @@
-**DS 1002: PROGRAMMING FOR DATA SCIENCE**
+## DS 1002: PROGRAMMING FOR DATA SCIENCE
 
 **Subject Area and Catalog Number:** Data Science, DS 1002, 17126, Section 1
 
