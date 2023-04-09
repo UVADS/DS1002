@@ -153,15 +153,15 @@ The textbooks are available for free through O'Reilly Media. You'll need to crea
 
 - **Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython,**  2nd Edition, McKinney. O'Reilly Media / ISBN: 978-1-4919-5766-0
 
-_Freely available through the library: _[_https://learning.oreilly.com/library/view/python-for-data/9781491957653/_](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
+_Freely available through the library: _[_https://learning.oreilly.com/library/view/python-for-data/9781491957653/_](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)_
 
-# **SDAC and Other Special Accommodations**
+**SDAC and Other Special Accommodations**
 
 If you have been identified as a Student Disability Access Center (SDAC) student, please let the Center know you are taking this class. If you suspect you should be an SDAC student, please schedule an appointment with them for an evaluation. I happily and discretely provide the recommended accommodations for those students identified by the SDAC. Please contact your instructor one week before an exam so we can make appropriate accommodations. Website: [https://www.studenthealth.virginia.edu/sdac](https://www.studenthealth.virginia.edu/sdac)
 
 If you are affected by a situation that falls within issues addressed by the SDAC and the instructor and staff are not informed about this in advance, this prevents us from helping during the semester, and it is unfair to request special considerations at the end of the term or after work is completed. We request you inform the instructor as early in the term as possible your circumstances. If you have other special circumstances (athletics, other university-related activities, etc.) please contact your instructor and/or TA as soon as you know these may affect you in class.
 
-**Student Mental Health and Wellbeing: **
+**Student Mental Health and Wellbeing:**
 
 The University of Virginia is committed to advancing the mental health and wellbeing of its students, while acknowledging that a variety of issues, such as strained relationships, increased anxiety, alcohol/drug problems, and depression, directly impacts students' academic performance.  If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available.  For help, contact Counseling and Psychological Services (CAPS) at 434-243-5150 Monday-Friday, 8:00am-4:30pm and after-hours including weekends and holidays.  For a comprehensive list of services provided by CAPS including individual therapy, group therapy, crisis services, and Outreach and Consultation, visit[https://www.studenthealth.virginia.edu/caps](https://www.studenthealth.virginia.edu/caps).
 
