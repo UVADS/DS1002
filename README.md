@@ -220,50 +220,6 @@ If you or someone you know is struggling with gender, sexual, or domestic violen
 | Week 15 | R |
 | Week 16 | R |
 
-**Homeworks & Quizzes –** topics subject to change
+**Homeworks & Quizzes** 
+- There will be a weekly homework and quiz. Both homeworks and quizzes are released on Thursday and due the following Thursday.
 
-(Both homeworks and quizzes are released on Thursday and due the following Tuesday)
-
-| **Semester Week** | **Homeworks** | **Quizzes** |
-| --- | --- | --- |
-| **Due Date** | **Topic** | **Due Date** | **Topic** |
-| Week 1 | No Homework | No Quiz |
-| Week 2 | 1/31 | Data Types | 1/31 |
- |
-| Week 3 | 2/7 |
- | 2/7 |
- |
-| Week 4 | 2/14 |
- | 2/14 |
- |
-| Week 5 | 2/21 |
- | 2/21 |
- |
-| Week 6 | 2/28 |
- | 2/28 |
- |
-| Week 7 | 3/14 |
- | 3/14 |
- |
-| Week 8 | No Homework | No Quiz |
-| Week 9 | 3/21 |
- | 3/21 |
- |
-| Week 10 | 3/28 |
- | 3/28 |
- |
-| Week 11 | 4/4 |
- | 4/4 |
- |
-| Week 12 | 4/11 |
- | 4/11 |
- |
-| Week 13 | 4/18 |
- | 4/18 |
- |
-| Week 14 | 4/25 |
- | 4/25 |
- |
-| Week 15 | 5/2 |
- | 5/2 |
- |
