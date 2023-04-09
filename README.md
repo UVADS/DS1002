@@ -153,7 +153,7 @@ The textbooks are available for free through O'Reilly Media. You'll need to crea
 
 - **Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython,**  2nd Edition, McKinney. O'Reilly Media / ISBN: 978-1-4919-5766-0
 
-_Freely available through the library: _[_https://learning.oreilly.com/library/view/python-for-data/9781491957653/_](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)_
+Freely available through the library: _[_https://learning.oreilly.com/library/view/python-for-data/9781491957653/_](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
 
 **SDAC and Other Special Accommodations**
 
@@ -201,38 +201,24 @@ If you or someone you know is struggling with gender, sexual, or domestic violen
 
 **Course Schedule** (subject to change)
 
-| **Semester Week** | **Class Number** | **Date** | **Topic** |
-| --- | --- | --- | --- |
-| Week 1 | 1 | 1/19 | Introduction to Course |
-| Week 2 | 2 | 1/24 | Tech Stack Overview & Set-up |
-| 3 | 1/26 | Tech Stack Overview & Set-up |
-| Week 3 | 4 | 1/31 | Python Basics |
-| 5 | 2/2 | Python Basics |
-| Week 4 | 6 | 2/7 | Python Basics |
-| 7 | 2/9 | Python Basics |
-| Week 5 | 8 | 2/14 | Numpy |
-| 9 | 2/16 | Numpy |
-| Week 6 | 10 | 2/21 | Pandas |
-| 11 | 2/23 | Pandas |
-| Week 7 | 12 | 2/28 | Pandas |
-| 13 | 3/2 | **No Class** |
-| Week 8 | 14 | 3/7 | **Spring Break: No Class** |
-| 15 | 3/9 | **Spring Break: No Class** |
-| Week 9 | 16 | 3/14 | Control Structures |
-| 17 | 3/16 | Iterables and Iterators |
-| Week 10 | 18 | 3/21 | Functions |
-| 19 | 3/23 | Lambda Functions |
-| Week 11 | 20 | 3/28 | List and Dictionary Comprehensions |
-| 21 | 3/30 | Recursion |
-| Week 12 | 22 | 4/4 | Functions Calling Other Functions |
-| 23 | 4/6 | Classes |
-| Week 13 | 24 | 4/11 | Exception Handling |
-| 25 | 4/13 | Unit Testing |
-| Week 14 | 26 | 4/18 | R |
-| 27 | 4/20 | R |
-| Week 15 | 28 | 4/25 | R |
-| 29 | 4/27 | R |
-| Week 16 | 30 | 5/2 | R |
+| **Semester Week** | **Topic** |
+| --- | --- |
+| Week 1 | Introduction to Course |
+| Week 2 |Tech Stack Overview & Set-up |
+| Week 3 | Tech Stack Overview & Set-up |
+| Week 4 | Python Basics |
+| Week 5 | Python Basics |
+| Week 6 | Numpy |
+| Week 7 | Pandas |
+| Week 8 | Spring Break (no class) |
+| Week 9 | Control Structures, Iterable & Iterators |
+| Week 10 | Functions, Lambda Functions |
+| Week 11 | List and Dictionary Comprehensions |
+| Week 12 | Recursion, Functions Calling Other Functions |
+| Week 13 | Exception Handling, AI Pair Coding Exploration |
+| Week 14 | Python Review, Bring it all together |
+| Week 15 | R |
+| Week 16 | R |
 
 **Homeworks & Quizzes –** topics subject to change
 
